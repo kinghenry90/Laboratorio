@@ -6,7 +6,7 @@ li a, .dropbtn {
     text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+li a.b:hover, .dropdown:hover .dropbtn {
     background-color:  #0463B0;
 }
 
